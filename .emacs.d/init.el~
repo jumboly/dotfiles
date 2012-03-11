@@ -1,3 +1,0 @@
-;言語を日本語にする
-(set-language-environment 'Japanese)
-
